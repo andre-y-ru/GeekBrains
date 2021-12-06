@@ -17,3 +17,5 @@ Install
 2. Git;
 3. GitHub Deaskotop;
 4. End Visual Studio Code. 
+
+Autor: Emelyaneeko Andrew
