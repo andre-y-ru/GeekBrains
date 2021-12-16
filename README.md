@@ -1,5 +1,5 @@
 # GeekBrains
-main
+master, main.
 
 Hello GeekBreins!
 ------------------
