@@ -9,7 +9,9 @@ My Andrew. I am your new student.
 2. add main;
 3. add README.md;
 4. add gitignore;
-5. add config.
+5. add config;
+6. git merge main;
+7. git rebase main.
 
 Install
 
