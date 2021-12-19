@@ -17,6 +17,10 @@ Skills:
 8. git teg 1.0.0
 9. git push --tags
 10. git push -d origin
+11. pull requests
+12. stash
+13. git cheryy pick commit
+14. + conflict!
 
 Install:
 
