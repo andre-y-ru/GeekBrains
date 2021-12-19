@@ -21,6 +21,7 @@ Skills:
 12. stash
 13. git cheryy pick commit
 14. + conflict!
+15. Fork repository
 
 Install:
 
