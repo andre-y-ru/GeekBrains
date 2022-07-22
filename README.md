@@ -1,7 +1,7 @@
 # GeekBrains
 master, main.
 
-![hustlin_erd](Certification Git.pdf)
+<img src="/Certification Git.png" alt="Certification Git" style="zoom:60%;" /></img>
 
 Hello GeekBreins!
 ------------------
